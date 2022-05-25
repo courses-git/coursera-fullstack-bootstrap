@@ -9,4 +9,4 @@
 -to build a project (into ./dist):
   -using scripts: npm run build
   -using grunt: npx grunt build
-  -using gulp: 
+  -using gulp: npx gulp build
